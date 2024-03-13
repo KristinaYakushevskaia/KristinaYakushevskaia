@@ -4,10 +4,10 @@
 
 ### Languages and Tools:
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=47C5FB)
-![Devtools](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![SoaoUi](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![SQL](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![Git](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Jira](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=Devtools&logoColor=097CDB)
+![SoaoUI](https://img.shields.io/badge/-SoapUI-090909?style=for-the-badge&logo=SoapUI&logoColor=F8C52C)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=F88C00)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=E9D54D)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=E5D3FF)
 
 Follow me
