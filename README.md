@@ -1,6 +1,6 @@
-[![Header](https://github.com/KristinaYakushevskaia/KristinaYakushevskaia/blob/main/assets/depositphotos_641842604-stock-photo-question-answer-text-wooden-cube.webp)]
+[![Header]Hi! Glad to see you!]
 
-## I'm a Junior QA Engineer
+## I'm a Junior QA Engineer. I completed my studies and now I want to find my dream job!
 
 ### Languages and Tools:
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=47C5FB)
@@ -10,6 +10,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=E9D54D)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=E5D3FF)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=6296CC)
+
+### Testing Documentoin
 
 ### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Kristina_Yakushevskaya)
