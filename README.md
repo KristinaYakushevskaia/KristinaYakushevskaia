@@ -11,9 +11,17 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=E5D3FF)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=6296CC)
 
+### My CV
+[Link to my cv](https://drive.google.com/drive/search?ths=true)
+
 ### Testing Documentoin
 
 [Checklist and TestCase](https://docs.google.com/spreadsheets/d/1nJDcnEZ7HKUysEzYU5tPO2P2_RZffyzBQsMLvXVZjG0/edit#gid=0)
+[Bug Report](https://docs.google.com/document/d/1ddpNwR2kN4mQfRHmFGH5O4TgFGFU8uhqsssGT96mSAg/edit)
+[SQL](https://docs.google.com/document/d/1lsTAfsGpS9r_d8jejsPla4OkoMRRdN7FutbGY-oYy3c/edit)
+
+### My sertificate
+[Sertificate](https://drive.google.com/drive/home?ths=true)
 
 ### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Kristina_Yakushevskaya)
