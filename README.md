@@ -13,6 +13,8 @@
 
 ### Testing Documentoin
 
+[Checklist and TestCase] (https://docs.google.com/spreadsheets/d/1nJDcnEZ7HKUysEzYU5tPO2P2_RZffyzBQsMLvXVZjG0/edit#gid=0)
+
 ### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Kristina_Yakushevskaya)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/kristina__yakushevskaya)
