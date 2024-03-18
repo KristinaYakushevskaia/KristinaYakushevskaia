@@ -1,4 +1,4 @@
-[![Header]Hi! Glad to see you!]
+
 
 ## I'm a Junior QA Engineer. I completed my studies and now I want to find my dream job!
 
