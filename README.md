@@ -1,6 +1,6 @@
 
 
-## I'm a Junior QA Engineer. I completed my studies and now I want to find my dream job!
+## I'm a Junior QA Engineer. I want to find my dream job!
 
 ### Languages and Tools:
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=47C5FB)
